@@ -20,6 +20,7 @@
     "axios": "^0.18.0",
     "dotenv": "^6.2.0",
     "inquire": "^0.4.8",
+    "moment": "^2.24.0",
     "node-spotify-api": "^1.0.7",
     "spotify": "^0.3.0"
   },
